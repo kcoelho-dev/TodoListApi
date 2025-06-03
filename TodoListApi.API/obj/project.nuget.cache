@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "okFx9fL0VHA=",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\repos\\TodoListApi\\TodoListApi.API\\TodoListApi.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kcoel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\kcoel\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
